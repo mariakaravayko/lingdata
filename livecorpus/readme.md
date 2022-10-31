@@ -3,4 +3,4 @@
 Gmoshinskiy.eaf - д/з 1 (слой text@ и transl@)
 Gmoshinskiy-pos.eaf - д/з 2 (слой pos@)
 Gmoshinskiy-pos-bonus - д/з 2 (бонусное, сложные случаи определения части речи)
-Gmoshinskiy-gest.eaf - д/з 3 (слой gesture@, gestureMeaning@, gestureActiveJrgan@, pause@, intonation@)
+Gmoshinskiy-gest.eaf - д/з 3 (слой gesture@, gestureMeaning@, gestureActiveOrgan@, pause@, intonation@)
